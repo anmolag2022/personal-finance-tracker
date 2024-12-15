@@ -1,11 +1,11 @@
-# Personal Finance Tracker for Students
+# Productivity Tracker for user
 
-This is a simple web app that helps students track their daily expenses, categorize their spending, and set savings goals.
+This is a simple web app that helps user to track their daily activities,set goals,measure productivity.
 
 ## Features
-- Log daily expenses
-- View categorized spending in pie chart
-- Set and track savings goals
+- Log daily task list
+- View productivity on user interface
+- Set and track the performance 
 
 ## How to Run
 1. Clone the repository.
